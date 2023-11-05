@@ -1,5 +1,8 @@
 ---
-tags: 🌱
+tags:
+  - 🌱
+  - OS
+  - ComputerScience 
 date: 01--Oct--2022
 ---
 
